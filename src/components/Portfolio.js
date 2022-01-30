@@ -67,7 +67,7 @@ function Portfolio() {
 
 	        <section class="s2">
                 <div class="main-container">
-                    </div><div class="about-wrapper">
+                    <div class="about-wrapper">
                         <div class="about-me">
                             <h4>More about me</h4>
 
@@ -99,6 +99,7 @@ function Portfolio() {
 						    </ul>
 
 					    </div>
+					</div>
 
 				    </div>
 
@@ -124,7 +125,6 @@ function Portfolio() {
 			        <h3 style={{textAlign: "center"}}>Get In Touch</h3>
 
 			        <form id="contact-form">
-						<a name="contact"></a>
 
 				        <label>Name</label>
 				        <input class="input-field" type="text" name="name" />
